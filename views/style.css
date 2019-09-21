@@ -1,11 +1,19 @@
+/* semua div teksnya akan memiliki font Lato */
+div{
+    font-family: 'Lato', sans-serif
+}
+
+/* semua class coklat teksnya berwarna coklat */
 .coklat{
     color: brown
 }
 
+/* semua id emrah teksnya berwarna merah */
 #merah{
     color: red
 }
 
+/* semua class gradient akan ada gradasi warna background */
 .gradient{
-    
+    background-image: linear-gradient(to right, #00F260, #0575E6)
 }
