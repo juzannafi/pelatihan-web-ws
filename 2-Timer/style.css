@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+#time-holder{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15vw;
+    color: #ce4a7aff;
+    padding-top: 15vh;
+    /* background-color: black; */
+
+}
+.controller{
+    font-size: 3vw;
+    color: #ce4a7aff;
+}
+
+.controller:hover{
+    color: #3ee0cbff;
+}
