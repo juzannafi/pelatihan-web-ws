@@ -1,0 +1,41 @@
+C:\Users\Asus>npm install -g @vue/cli
+C:\Users\Asus\AppData\Roaming\npm\vue -> C:\Users\Asus\AppData\Roaming\npm\node_modules\@vue\cli\bin\vue.js
+
+> core-js@2.6.10 postinstall C:\Users\Asus\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\babel-polyfill\node_modules\core-js
+> node postinstall || echo "ignore"
+
+Thank you for using core-js ( https://github.com/zloirock/core-js ) for polyfilling JavaScript standard library!
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:
+> https://opencollective.com/core-js
+> https://www.patreon.com/zloirock
+
+Also, the author of core-js ( https://github.com/zloirock ) is looking for a good job -)
+
+
+> core-js@2.6.10 postinstall C:\Users\Asus\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\babel-runtime\node_modules\core-js
+> node postinstall || echo "ignore"
+
+
+> core-js@3.4.0 postinstall C:\Users\Asus\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\core-js
+> node postinstall || echo "ignore"
+
+
+> protobufjs@6.8.8 postinstall C:\Users\Asus\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\protobufjs
+> node scripts/postinstall
+
+
+> nodemon@1.19.4 postinstall C:\Users\Asus\AppData\Roaming\npm\node_modules\@vue\cli\node_modules\nodemon
+> node bin/postinstall || exit 0
+
+Love nodemon? You can now support the project via the open collective:
+ > https://opencollective.com/nodemon/donate
+
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.9 (node_modules\@vue\cli\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.9: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @vue/cli@4.0.5
+added 1074 packages from 624 contributors in 810.067s
+
+C:\Users\Asus>vue --version
+@vue/cli 4.0.5

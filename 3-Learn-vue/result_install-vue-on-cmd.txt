@@ -1,0 +1,62 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS D:\IT Project\Web Development\Pelatihan-WS> vue create learn-vue
+?  Your connection to the default npm registry seems to be slow.   
+   Use https://registry.npm.taobao.org for faster installation? Yes
+
+
+Vue CLI v4.0.5
+? Please pick a preset: default (babel, eslint)
+
+
+Vue CLI v4.0.5
+✨  Creating project in D:\IT Project\Web Development\Pelatihan-WS\learn-vue.
+⚙  Installing CLI plugins. This might take a while...
+
+
+> yorkie@2.0.0 install D:\IT Project\Web Development\Pelatihan-WS\learn-vue\node_modules\yorkie
+> node bin/install.js
+
+setting up Git hooks
+can't find .git directory, skipping Git hooks installation
+
+> core-js@3.4.0 postinstall D:\IT Project\Web Development\Pelatihan-WS\learn-vue\node_modules\core-js
+> node postinstall || echo "ignore"
+
+
+> core-js-pure@3.4.0 postinstall D:\IT Project\Web Development\Pelatihan-WS\learn-vue\node_modules\core-js-pure
+> node postinstall || echo "ignore"
+
+added 1128 packages from 822 contributors in 57.952s
+�🚀  Invoking generators...
+�📦  Installing additional dependencies...
+
+
+�📄  Generating README.md...
+
+�🎉  Successfully created project learn-vue.
+�👉  Get started with the following commands:
+
+ $ cd learn-vue
+ $ npm run serve
+
+PS D:\IT Project\Web Development\Pelatihan-WS> cd learn-vue
+PS D:\IT Project\Web Development\Pelatihan-WS\learn-vue> npm run serve
+
+> learn-vue@0.1.0 serve D:\IT Project\Web Development\Pelatihan-WS\learn-vue
+> vue-cli-service serve
+
+ INFO  Starting development server...
+98% after emitting CopyPlugin
+
+ DONE  Compiled successfully in 3361ms                                                                         4:58:00 PM
+
+  App running at:
+  - Local:   http://localhost:8080/
+  - Network: http://10.73.2.143:8080/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
